@@ -7,9 +7,9 @@
 [![Google Gemini](https://img.shields.io/badge/AI-Google_Gemini-4285F4)](https://ai.google.dev/)
 [![ClickHouse](https://img.shields.io/badge/Database-ClickHouse_Cloud-FFA000)](https://clickhouse.com/)
 [![MCP](https://img.shields.io/badge/Protocol-ClickHouse_MCP-00C853)](https://github.com/ClickHouse/mcp-clickhouse)
-[![Vercel Deployment](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)](https://frontend-ochre-three-mtd2woajcr.vercel.app)
+[![Vercel Deployment](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)](https://recall-cinema.vercel.app)
 
-🔗 **Live Web App**: [https://frontend-ochre-three-mtd2woajcr.vercel.app](https://frontend-ochre-three-mtd2woajcr.vercel.app)  
+🔗 **Live Web App**: [https://recall-cinema.vercel.app](https://recall-cinema.vercel.app)  
 📦 **GitHub Repository**: [https://github.com/hriteshvirat/recall-cinema](https://github.com/hriteshvirat/recall-cinema)
 
 ---

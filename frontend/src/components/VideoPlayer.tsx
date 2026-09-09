@@ -87,12 +87,6 @@ export const VideoPlayer = forwardRef<VideoPlayerHandle, VideoPlayerProps>(
               </p>
             </div>
           )}
-
-          {src && (
-            <div className="video-overlay-timestamp" aria-hidden="true">
-              {formatTime(currentTime)}
-            </div>
-          )}
         </div>
 
         {activeEvent && (
